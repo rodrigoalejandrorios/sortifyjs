@@ -2,10 +2,8 @@
 
 [![npm version](https://img.shields.io/npm/v/json.sortify.svg)](https://www.npmjs.com/package/node-generate-csv)
 [![Build Status](https://img.shields.io/travis/ThomasR/JSON.sortify.svg)](https://travis-ci.org/ThomasR/JSON.sortify)
-[![Test Coverage](https://img.shields.io/codeclimate/coverage/github/ThomasR/JSON.sortify.svg)](https://codeclimate.com/github/ThomasR/JSON.sortify/coverage)
-[![Code Climate](https://img.shields.io/codeclimate/github/ThomasR/JSON.sortify.svg)](https://codeclimate.com/github/ThomasR/JSON.sortify/code)
 
-`sortifyjs` sorts object keys alphabetically.
+`sortifyjs` sorts object keys alphabetically into new array.
 
 ## Install as an NPM module
 

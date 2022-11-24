@@ -103,6 +103,7 @@
   "exclude": [
     "*.config.ts",
     "mocks",
-    "test"
+    "test",
+    "node_modules"
   ]
 }
