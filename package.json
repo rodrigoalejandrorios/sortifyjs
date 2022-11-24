@@ -1,6 +1,6 @@
 {
   "name": "sortifyjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Package to sort your javascript or typescript code",
   "main": "dist/index.ts",
   "types":"dist/index.d.ts",

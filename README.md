@@ -1,7 +1,6 @@
 # SortifyJS
 
-[![npm version](https://img.shields.io/npm/v/json.sortify.svg)](https://www.npmjs.com/package/node-generate-csv)
-[![Build Status](https://img.shields.io/travis/ThomasR/JSON.sortify.svg)](https://travis-ci.org/ThomasR/JSON.sortify)
+[![npm version](https://img.shields.io/npm/v/sortifyjs)](https://www.npmjs.com/package/sortifyjs)
 
 `sortifyjs` sorts object keys alphabetically into new array.
 
