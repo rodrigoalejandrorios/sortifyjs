@@ -1,0 +1,37 @@
+{
+  "name": "sortifyjs",
+  "version": "1.0.0",
+  "description": "Package to sort your javascript or typescript code",
+  "main": "dist/index.ts",
+  "types":"dist/index.d.ts",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc",
+    "start": "tsc && node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigoalejandrorios/sortifyjs.git"
+  },
+  "keywords": [
+    "sort",
+    "sort",
+    "object",
+    "sort",
+    "json",
+    "find"
+  ],
+  "author": "Rodrigo Rios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigoalejandrorios/sortifyjs/issues"
+  },
+  "homepage": "https://github.com/rodrigoalejandrorios/sortifyjs#readme",
+  "devDependencies": {
+    "@types/jest": "^29.2.3",
+    "@types/node": "^18.11.9",
+    "jest": "^29.3.1",
+    "ts-jest": "^29.0.3",
+    "ts-node": "^10.9.1"
+  }
+}
